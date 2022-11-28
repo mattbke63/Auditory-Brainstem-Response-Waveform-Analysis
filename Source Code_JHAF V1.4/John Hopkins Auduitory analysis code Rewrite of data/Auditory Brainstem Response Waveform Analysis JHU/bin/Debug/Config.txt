@@ -1,0 +1,19 @@
+True
+False
+30.0032
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+False
+True
+False
+False
+False
+BioSig RZ (TDT)
