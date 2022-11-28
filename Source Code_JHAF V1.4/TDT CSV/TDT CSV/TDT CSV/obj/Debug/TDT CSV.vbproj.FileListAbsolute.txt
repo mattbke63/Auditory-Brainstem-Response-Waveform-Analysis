@@ -1,0 +1,12 @@
+C:\Users\matthew.burke\Desktop\TDT CSV\TDT CSV\TDT CSV\obj\Debug\TDT_CSV.Resources.resources
+C:\Users\matthew.burke\Desktop\TDT CSV\TDT CSV\TDT CSV\obj\Debug\TDT CSV.vbproj.GenerateResource.cache
+C:\Users\matthew.burke\Desktop\TDT CSV\TDT CSV\TDT CSV\obj\Debug\TDT CSV.vbproj.CoreCompileInputs.cache
+C:\Users\matthew.burke\Desktop\TDT CSV\TDT CSV\TDT CSV\obj\Debug\TDT_CSV.TDT_CSV.resources
+C:\Users\matthew.burke\Desktop\TDT CSV\TDT CSV\TDT CSV\obj\Debug\TDT CSV.vbprojAssemblyReference.cache
+C:\Users\matthew.burke\Desktop\TDT CSV\TDT CSV\TDT CSV\bin\Debug\BioSig RZ (TDT).exe.config
+C:\Users\matthew.burke\Desktop\TDT CSV\TDT CSV\TDT CSV\bin\Debug\BioSig RZ (TDT).exe
+C:\Users\matthew.burke\Desktop\TDT CSV\TDT CSV\TDT CSV\bin\Debug\BioSig RZ (TDT).pdb
+C:\Users\matthew.burke\Desktop\TDT CSV\TDT CSV\TDT CSV\bin\Debug\BioSig RZ (TDT).xml
+C:\Users\matthew.burke\Desktop\TDT CSV\TDT CSV\TDT CSV\obj\Debug\BioSig RZ (TDT).exe
+C:\Users\matthew.burke\Desktop\TDT CSV\TDT CSV\TDT CSV\obj\Debug\BioSig RZ (TDT).xml
+C:\Users\matthew.burke\Desktop\TDT CSV\TDT CSV\TDT CSV\obj\Debug\BioSig RZ (TDT).pdb
