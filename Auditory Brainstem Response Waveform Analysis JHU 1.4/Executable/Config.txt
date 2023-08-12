@@ -1,6 +1,6 @@
 True
 False
-30.0032
+15
 True
 True
 True
@@ -17,3 +17,5 @@ False
 False
 False
 BioSig RZ (TDT)
+10
+200
